@@ -20,7 +20,7 @@
 
 ### 3. Web Dashboard Repository
 
-- **URL:** https://github.com/resh2024/rideau-canal-sensor-simulation
+- **URL:** https://github.com/resh2024/rideau-canal_dashboard
 - **Description:** Web dashboard application
 
 ## Demo
